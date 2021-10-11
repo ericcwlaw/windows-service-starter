@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pm2-starter", "pm2-starter.csproj", "{FA2DDA81-24BB-4E80-B5BB-7E6ADDBED589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2DDA81-24BB-4E80-B5BB-7E6ADDBED589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2DDA81-24BB-4E80-B5BB-7E6ADDBED589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2DDA81-24BB-4E80-B5BB-7E6ADDBED589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2DDA81-24BB-4E80-B5BB-7E6ADDBED589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD60E57-1F70-46C0-BA50-D1205875BB8D}
+	EndGlobalSection
+EndGlobal
